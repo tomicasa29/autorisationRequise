@@ -1,0 +1,32 @@
+body {
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+}
+
+.mainBloc {
+  top: 0;
+  bottom: 0;
+  right: 8%;
+  left: 8%;
+  position: absolute;
+  background-color: rgb(219, 212, 212);
+  height: 100%;
+}
+
+.bloc1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bloc2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 35%;
+}
+
+/*# sourceMappingURL=style.css.map */
